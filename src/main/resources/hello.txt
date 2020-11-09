@@ -1,0 +1,7 @@
+hello scala
+hello flink
+hello world
+hello wuhan
+how are you
+thank you
+what about you
