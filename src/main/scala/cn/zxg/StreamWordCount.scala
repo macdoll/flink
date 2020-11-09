@@ -15,5 +15,6 @@ class StreamWordCount {
     resultDataStream.print()
 //    启动一个进程，来一个事件处理一下
     env.execute("stream word count")
+    print("hello")
   }
 }
