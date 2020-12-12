@@ -1,8 +1,8 @@
-package cn.zxg
+package cn.zxg.WordCount
 
-import org.apache.flink.streaming.api.scala.StreamExecutionEnvironment
+import org.apache.flink.streaming.api.scala._
 
-class StreamWordCount {
+object StreamWordCount {
   def main(args: Array[String]): Unit = {
     val env = StreamExecutionEnvironment.getExecutionEnvironment
     env.setParallelism(4)
