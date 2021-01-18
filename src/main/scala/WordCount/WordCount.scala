@@ -1,4 +1,4 @@
-package cn.zxg.WordCount
+package WordCount
 
 import org.apache.flink.api.scala.ExecutionEnvironment
 
